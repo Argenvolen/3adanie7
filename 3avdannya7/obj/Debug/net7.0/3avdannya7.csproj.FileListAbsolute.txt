@@ -1,0 +1,15 @@
+K:\3avdannya7\bin\Debug\net7.0\3avdannya7.exe
+K:\3avdannya7\bin\Debug\net7.0\3avdannya7.deps.json
+K:\3avdannya7\bin\Debug\net7.0\3avdannya7.runtimeconfig.json
+K:\3avdannya7\bin\Debug\net7.0\3avdannya7.dll
+K:\3avdannya7\bin\Debug\net7.0\3avdannya7.pdb
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.csproj.AssemblyReference.cache
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.GeneratedMSBuildEditorConfig.editorconfig
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.AssemblyInfoInputs.cache
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.AssemblyInfo.cs
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.csproj.CoreCompileInputs.cache
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.dll
+K:\3avdannya7\obj\Debug\net7.0\refint\3avdannya7.dll
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.pdb
+K:\3avdannya7\obj\Debug\net7.0\3avdannya7.genruntimeconfig.cache
+K:\3avdannya7\obj\Debug\net7.0\ref\3avdannya7.dll
